@@ -1,13 +1,13 @@
 ![image](https://user-images.githubusercontent.com/78256845/206919885-120a26e2-b9c4-40f7-a250-5c0d3ca697f6.png)
 <h1 align="center">Hi 👋, I'm DIKSHANT!</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dikshant0711&label=Profile%20views&color=0e75b6&style=flat" alt="dikshant0711" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dikshant0711" target="blank"><img src="https://img.shields.io/twitter/follow/dikshant0711?logo=twitter&style=for-the-badge" alt="dikshant0711" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **dikshantyerwal0711@gmail.com**
 
