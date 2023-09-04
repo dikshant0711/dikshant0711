@@ -45,7 +45,8 @@ education:
   ]
 fields_of_interests:
   [
-    "Web Development",
+    "Web Development"
+    "Software Tester"
     "Data Science",
     "Machine Learning",
     "UI/UX",
